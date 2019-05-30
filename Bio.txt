@@ -1,1 +1,4 @@
 108
+1=True
+0=False
+8=Undefind
